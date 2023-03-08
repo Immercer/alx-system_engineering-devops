@@ -1,0 +1,1 @@
+basic scipting with linux
